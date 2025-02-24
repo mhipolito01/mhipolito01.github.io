@@ -4,4 +4,4 @@ IT 304 - Matthew Hipolito
 | Name           | Matthew Hipolito                                                             |
 |---------       |------------------------------------------------------------------------------|
 | Introduction   | I am a Junior in BAS Cyber Security Program taking IT 304.|
-| Hobbies | Computers, working out, and unfortunately gambling                                  |
+| Hobbies | Computers, working out, and playing video games.                                    |
